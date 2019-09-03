@@ -30,6 +30,7 @@ This file explain the practice. This practice has two parts:
 This file contains the study of 2 problems that solve with the aid of the Python library Scikit-Learn. 
 
 In the first part of the practice we solve a Lineal Regression problem and we use census data base.
+
 In the second part of the practice we solve a Classification problem and we use diamonds data base.
 
 
