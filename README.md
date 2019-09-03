@@ -4,7 +4,7 @@ The repository contains the following files to solve 2 problems with the library
 
 The files are:
   1. data/
-  2. Enunciado PrÃ¡ctica ML 101.pdf
+  2. Enunciado_Practica_ML_101.pdf
   3. Machine_Learning_KC.ipynb
   4. README.twbx
  
