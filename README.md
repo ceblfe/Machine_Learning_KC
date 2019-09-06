@@ -19,15 +19,15 @@ The data files are:
 
 ## 2. Enunciado Practica ML 101.pdf
 
-This file explain the practice. This practice has two parts:
+This file explains the practice. This practice has two parts:
 
- I. Lineal Regression Problem. In this part is explained every variable of the problem. We are using the data base census.csv
+ I. Lineal Regression Problem. In this part is explained every variable of the problem is explained. We are using the data base census.csv
  
- II. Classification Problem. In this part is explained every variable of the problem. We are using the data base diamonds.csv
+ II. Classification Problem. In this part is explained every variable of the problem is explained. We are using the data base diamonds.csv
 
 ## 3. Machine_Learning_KC.ipynb
 
-This file contains the study of 2 problems that solve with the aid of the Python library Scikit-Learn. 
+This file contains the study of 2 problems that are solved with the aid of the Python library Scikit-Learn. 
 
 In the first part of the practice we solve a Lineal Regression problem and we use census data base.
 
